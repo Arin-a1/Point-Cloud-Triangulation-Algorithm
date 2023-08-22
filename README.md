@@ -28,6 +28,6 @@ Each algorithm is discussed in terms of its applicability, advantages, limitatio
 To get started with the project, ensure you have the required dependencies installed. You might need libraries such as NumPy, SciPy, Open3D, PyVista, and others for running the provided Jupyter Notebooks.
 
 Clone the repository using:
-git clone 
+git clone https://github.com/Arin-a1/Point-Cloud-Triangulation-Algorithm
 
 Then, navigate to the repository directory and follow the instructions in the specific tutorial notebook.
