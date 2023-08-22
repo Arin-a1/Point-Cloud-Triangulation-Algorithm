@@ -3,12 +3,14 @@ Computational Optics final project
 
 This repository contains a Jupyter Notebook tutorial and examples demonstrating various techniques for point cloud triangulation and 3D surface reconstruction. The project aims to provide insights into different algorithms, their advantages, limitations, and practical implementation steps.
 
-<span style="font-size: larger;">**Table of Contents**</span>
+**Table of Contents**
+
 - Introduction
 - Algorithms Explored
 - Getting Started
 
 <span style="font-size: larger;">**Introduction**</span>
+
 Point cloud triangulation is a fundamental step in converting raw point cloud data into 3D surface meshes. This project explores different algorithms and methodologies used in point cloud triangulation, including their strengths and weaknesses.
 
 <span style="font-size: larger;">**Algorithms Explored**</span>
