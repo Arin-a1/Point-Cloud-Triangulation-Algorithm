@@ -3,7 +3,7 @@ Computational Optics final project
 
 This repository contains a Jupyter Notebook tutorial and examples demonstrating various techniques for point cloud triangulation and 3D surface reconstruction. The project aims to provide insights into different algorithms, their advantages, limitations, and practical implementation steps.
 
-#Table of Contents
+<span style="font-size: larger;">**Table of Contents**</span>- Introduction
 - Introduction
 - Algorithms Explored
 - Getting Started
